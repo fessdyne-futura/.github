@@ -1,5 +1,9 @@
-## Hi there 👋
 
+# Repository Overview
+
+## Edge 
+* Contains all the code required for Raspberry Pi in the data transmission pipeline
+* _pi_health.py_ and _audio_capture_ are the two main scripts which handles the UDP heartbeats of the pi and main data acquistion+transmission pipeline
 <!--
 
 **Here are some ideas to get you started:**
